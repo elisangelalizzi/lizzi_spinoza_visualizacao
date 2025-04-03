@@ -28,11 +28,11 @@ Para utilizar os materiais deste repositório, é necessário:
 
 
 ## Autores
-- Elisangela Aparecida da Silva Lizzi 
-Professora e Pesquisadora 
+- Elisangela Aparecida da Silva Lizzi -
+Professora e Pesquisadora -
 Universidade Tecnológica Federal do Paraná(UTFPR)
 
-- Diego Spinoza
+- Diego Spinoza -
 Secretaria Municipal da Saúde de Curitiba(SMS- CT)
 
 ## 📄 Licença
